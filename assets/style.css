@@ -1,12 +1,12 @@
 * {
     margin: 0;
-    padding: 0;
+    padding: 5;
    }
    
    header,
    footer {
     width: 100%;
-    height: 120px;
+    height: 60px;
     background-color: blue;
     color: white;
    }
@@ -30,6 +30,6 @@
    }
    
    p {
-    text-align: center;
+    text-align: left;
     font-size: 30px;
    }
